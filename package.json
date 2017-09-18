@@ -1,0 +1,19 @@
+{
+  "name": "bootstrat4",
+  "version": "1.0.0",
+  "description": "\"a bet of css html ans amazong bootstrap4\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsaldivars/Bootstrap4.git"
+  },
+  "author": "Fidel Saldivar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsaldivars/Bootstrap4/issues"
+  },
+  "homepage": "https://github.com/fsaldivars/Bootstrap4#readme"
+}
